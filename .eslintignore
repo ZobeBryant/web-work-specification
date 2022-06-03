@@ -11,3 +11,4 @@ sdk
 .eslintrc.js
 changelog.config.js
 commitlint.config.js
+changelog.js

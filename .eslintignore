@@ -1,0 +1,13 @@
+coverage/
+node_modules
+lib
+dist
+es
+junit.xml
+.storybook
+tsconfig.json
+sdk
+3rd
+.eslintrc.js
+changelog.config.js
+commitlint.config.js
